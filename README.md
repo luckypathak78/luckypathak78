@@ -10,7 +10,7 @@
 - 💻 Learning **Full Stack Development (MERN)**
 - 🌱 Currently improving **React & Backend Development**
 - 🚀 Interested in **Open Source Contributions**
-
+- Learning **DSA**
 ---
 
 ### 🛠️ Tech Stack
