@@ -1,133 +1,181 @@
-# Hi 👋, I'm Lucky
+<div align="center">
 
-### 💻 B.Tech CSE Student | MERN Stack Developer | Open Source Learner
+# 👋 Hi there, I'm Lucky
+
+### `luckypathak78`
+
+**B.Tech CSE @ GGSIPU | Web Developer | MERN Stack Enthusiast**
+
+🌱 Currently improving **React & Backend Development**  
+🚀 Interested in **Open Source Contributions**  
+💻 Building impactful web experiences  
+📚 Learning **DSA with C / C++**  
+✨ Always curious to learn new things
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student at **GGSIPU**
+- 🌐 Full-Stack Web Development Enthusiast
+- ⚛️ Currently improving **React & Backend Development**
+- 🚀 Interested in **Open Source**
+- 🧠 Learning **DSA with C/C++**
+- 💡 Love building real-world projects
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="./girl-coding.png" width="400" alt="Girl coding on computer">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=luckypathak78&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+<a href="https://github.com/luckypathak78">
+<img src="https://img.shields.io/badge/GitHub-luckypathak78-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/luckypathak78/">
+<img src="https://img.shields.io/badge/LinkedIn-luckypathak78-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-- 🎓 B.Tech CSE Student at Delhi Technical Campus
-- 🌱 Currently improving **React & Backend Development**
-- 🚀 Building projects using the **MERN Stack**
-- 🔭 Interested in **Open Source Contributions**
-- 🧠 Currently learning **DSA with C++**
-- 💡 Interested in Web Development and Software Development
-- 💻 Always learning and building something new
-
----
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,javascript" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎨 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-6A5ACD?style=for-the-badge)
 
 ### 🗄️ Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Tools
+### 🧰 Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 ### 🏥 Doctor Appointment Booking System
 
-A full-stack MERN application for booking and managing doctor appointments.
+A full-stack web application that allows users to book doctor appointments, manage slots, and handle bookings efficiently.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-🔗 [View Project](https://github.com/luckypathak78/Doctor-appointment-Booking-System)
+🔗 [View Repository](https://github.com/luckypathak78/Doctor-appointment-Booking-System)
 
 ---
 
 ### 🛒 Amazon Clone
 
-An e-commerce website inspired by Amazon with a responsive user interface.
+A responsive Amazon-inspired e-commerce website with product listing, cart and authentication features.
 
-**Tech:** HTML • CSS • JavaScript • React
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `CSS`
 
-🔗 [View Project](https://github.com/luckypathak78/Amazon-clone)
-
----
-
-### 🌱 She Can Foundation Website
-
-A responsive website developed for She Can Foundation as part of a frontend development internship task.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/luckypathak78/she-can-foundation)
+🔗 [View Repository](https://github.com/luckypathak78/Amazon-clone)
 
 ---
 
-### 🛠️ Kidrove Workshop
+### 🌐 She Can Foundation Website
 
-A workshop/registration web application with frontend and backend integration.
+A static website built using HTML, CSS & JavaScript for the She Can Foundation as part of an Internshala Frontend Internship task.
 
-**Tech:** React • Node.js • Express • MongoDB
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript`
 
-🔗 [View Project](https://github.com/luckypathak78/kidrove-workshop)
+🔗 [View Repository](https://github.com/luckypathak78/she-can-foundation)
 
 ---
 
-## 🌱 Open Source
+### 🧒 Kidrove Workshop
+
+A workshop website for kids to explore, learn and register for exciting events and activities.
+
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+🔗 [View Repository](https://github.com/luckypathak78/kidrove-workshop)
+
+🌐 [Live Demo](https://kidrove-workshop-e0r03tn24-lucky20.vercel.app/)
+
+---
+
+# 🌱 Open Source
 
 - 🚀 Exploring open-source contributions
-- 💻 Interested in contributing to real-world projects
-- 🤝 Looking forward to collaborating with developers
-- 📚 Learning Git, GitHub and open-source workflows
+- 💻 Love building projects that create real-world impact
+- 🤝 Open to collaboration and learning together
+
+> ⭐ **"Code. Learn. Contribute. Repeat."**
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckypathak78&show_icons=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckypathak78" height="180"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=luckypathak78&theme=tokyonight&hide_border=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=luckypathak78&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckypathak78&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luckypathak78&theme=tokyo-night&hide_border=true" width="48%">
+
+</div>
 
 ---
 
-## 🔥 GitHub Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckypathak78&theme=github-compact" />
-</p>
+### ✨ Thanks for visiting!
 
----
+**Let's build something amazing together. 🚀**
 
-## 📈 My Current Focus
-
-```text
-React & Frontend Development  ███████████████████░░  90%
-Backend Development            ████████████████░░░░░  80%
-JavaScript                     ████████████████████  95%
-C / C++                        ███████████████░░░░░  75%
-DSA                            ██████████░░░░░░░░░░  50%
-Open Source                    ███████░░░░░░░░░░░░░  35%
+</div>
