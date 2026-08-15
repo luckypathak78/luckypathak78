@@ -1,94 +1,133 @@
-<h1 align="center">Hi 👋, I'm Lucky</h1>
-<h3 align="center">🚀 BTech CSE Student | MERN Stack Developer | Open Source Learner</h3>
+# Hi 👋, I'm Lucky
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### 💻 B.Tech CSE Student | MERN Stack Developer | Open Source Learner
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=luckypathak78&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 1st Year **BTech CSE Student**
-- 💻 Learning **Full Stack Development (MERN)**
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student at Delhi Technical Campus
 - 🌱 Currently improving **React & Backend Development**
-- 🚀 Interested in **Open Source Contributions**
-- Learning **DSA**
----
-
-### 🛠️ Tech Stack
-
-#### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-#### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
-
-#### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+- 🚀 Building projects using the **MERN Stack**
+- 🔭 Interested in **Open Source Contributions**
+- 🧠 Currently learning **DSA with C++**
+- 💡 Interested in Web Development and Software Development
+- 💻 Always learning and building something new
 
 ---
 
-# 🚀 Projects
+## 🛠️ Tech Stack
 
-## 🏥 Doctor Appointment Booking System
-A **Full Stack MERN application** that allows users to book doctor appointments online.
+### 💻 Languages
 
-### ✨ Features
-- User Authentication
-- Appointment Booking
-- Doctor Management
-- Admin Dashboard
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript" />
+</p>
 
-### 🛠 Tech Stack
-- React
-- Node.js
-- Express.js
-- MongoDB
+### 🎨 Frontend
 
-### 🔗 Live Demo
-Frontend  
-https://doctor-appointment-booking-system-bizo.onrender.com
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-Admin Dashboard  
-https://doctor-appointment-booking-system-admin.onrender.com
+### ⚙️ Backend
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-## 🛒 Amazon Clone
-A **responsive Amazon-inspired e-commerce website** built to practice frontend development and UI design.
+### 🗄️ Database
 
-### ✨ Features
-- Amazon-like homepage UI
-- Product listing layout
-- Navigation bar
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### 🛠 Tech Stack
-- HTML
-- CSS
-  
+### 🔧 Tools
 
-### 🔗 Live Demo
-https://luckypathak78.github.io/Amazon-clone/
-
-### 💻 GitHub Repository
-https://github.com/luckypathak78/amazon-clone
-
-
- # 🌐 Connect With Me
-
-💻 GitHub  
-https://github.com/luckypathak78  
-
-💼 LinkedIn  
-https://www.linkedin.com/in/lucky-pathak-93a859380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🚀 Projects
+
+### 🏥 Doctor Appointment Booking System
+
+A full-stack MERN application for booking and managing doctor appointments.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+🔗 [View Project](https://github.com/luckypathak78/Doctor-appointment-Booking-System)
+
+---
+
+### 🛒 Amazon Clone
+
+An e-commerce website inspired by Amazon with a responsive user interface.
+
+**Tech:** HTML • CSS • JavaScript • React
+
+🔗 [View Project](https://github.com/luckypathak78/Amazon-clone)
+
+---
+
+### 🌱 She Can Foundation Website
+
+A responsive website developed for She Can Foundation as part of a frontend development internship task.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/luckypathak78/she-can-foundation)
+
+---
+
+### 🛠️ Kidrove Workshop
+
+A workshop/registration web application with frontend and backend integration.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+🔗 [View Project](https://github.com/luckypathak78/kidrove-workshop)
+
+---
+
+## 🌱 Open Source
+
+- 🚀 Exploring open-source contributions
+- 💻 Interested in contributing to real-world projects
+- 🤝 Looking forward to collaborating with developers
+- 📚 Learning Git, GitHub and open-source workflows
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luckypathak78&show_icons=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckypathak78" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckypathak78&theme=github-compact" />
+</p>
+
+---
+
+## 📈 My Current Focus
+
+```text
+React & Frontend Development  ███████████████████░░  90%
+Backend Development            ████████████████░░░░░  80%
+JavaScript                     ████████████████████  95%
+C / C++                        ███████████████░░░░░  75%
+DSA                            ██████████░░░░░░░░░░  50%
+Open Source                    ███████░░░░░░░░░░░░░  35%
