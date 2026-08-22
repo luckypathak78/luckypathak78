@@ -1,44 +1,82 @@
 <div align="center">
 
-# 👋 Hey, I'm Lucky
+# 👋 Hey, I'm **Lucky**
 
-### 💻 B.Tech CSE @ GGSIPU | Full-Stack Developer | Builder
+### 💻 B.Tech CSE @ GGSIPU  |  Full-Stack Developer  |  AI Builder
 
-<img src="https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1200" width="850" alt="Girl coding"/>
+<img src="./hero-banner-png.png" width="900" alt="Futuristic developer workspace"/>
 
-<br><br>
+<br>
 
-### ✨ I build things, break things, learn, and build them better.
+### 🚀 Code. Learn. Build. Repeat.
 
 <p>
+  <img src="https://img.shields.io/badge/Passionate%20Developer-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Real--World%20Projects-0A84FF?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-7B61FF?style=for-the-badge&logo=target&logoColor=white"/>
+</p>
+
 <a href="https://github.com/luckypathak78">
 <img src="https://img.shields.io/badge/GitHub-luckypathak78-181717?style=for-the-badge&logo=github">
 </a>
-</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="50%">
 
 🎓 **B.Tech CSE student at GGSIPU**
 
-🌐 Web Development enthusiast
+🔥 Full-Stack Developer passionate about building impactful web applications
 
 ⚛️ Currently improving **React & Backend Development**
 
 🧠 Learning **DSA with C / C++**
 
-🚀 Interested in **Open Source Contributions**
+🌱 Exploring **Open Source**
 
-💡 Love building **real-world projects**
+💡 Love turning ideas into real-world projects
 
-✨ Always curious to learn something new
+🚀 Always curious. Always building. Always growing.
+
+</td>
+
+<td width="50%">
+
+### 🛠️ My Development Journey
+
+```text
+Ideas
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Learn
+  ↓
+Improve
+  ↓
+Build Again 🚀
+```
+
+> "I don't just want to learn technology.
+> I want to build things with it."
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -74,65 +112,110 @@
 
 # 🚀 Featured Projects
 
-### 🏥 Doctor Appointment Booking System
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 AI Memory Preservation Platform
+
+An AI-powered platform designed to preserve communication styles and personalities based on real conversations.
+
+**Tech**
+
+`React` `Node.js` `MongoDB`
+`Gemini AI` `Tailwind CSS`
+
+🔗 **[Repository →](https://github.com/luckypathak78)**
+
+</td>
+
+<td width="50%">
+
+## 🏥 Doctor Appointment System
 
 A full-stack application for booking doctor appointments, managing slots and handling bookings.
 
-**Tech:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+**Tech**
+
+`React` `Node.js` `Express.js`
+`MongoDB` `Tailwind CSS`
 
 🔗 **[View Repository →](https://github.com/luckypathak78/Doctor-appointment-Booking-System)**
 
----
+</td>
+</tr>
 
-### 🛒 Amazon Clone
+<tr>
+<td width="50%">
 
-A responsive Amazon-inspired e-commerce project with product listings, cart functionality and authentication features.
+## 🛒 Amazon Clone
 
-**Tech:** `React` `Node.js` `Express.js` `MongoDB`
+A responsive Amazon-inspired e-commerce platform with product listings, cart functionality and authentication.
+
+**Tech**
+
+`React` `Node.js` `Express.js` `MongoDB`
 
 🔗 **[View Repository →](https://github.com/luckypathak78/Amazon-clone)**
 
----
+</td>
 
-### 🌱 She Can Foundation
+<td width="50%">
 
-A responsive website created using HTML, CSS and JavaScript as part of my frontend internship work.
+## 🧒 Kidrove Workshop
 
-**Tech:** `HTML` `CSS` `JavaScript`
+A workshop platform where kids can explore, learn and register for events and activities.
 
-🔗 **[View Repository →](https://github.com/luckypathak78/she-can-foundation)**
+**Tech**
 
----
+`React` `Node.js` `Express.js`
+`MongoDB` `Tailwind CSS`
 
-### 🧒 Kidrove Workshop
-
-A workshop platform where kids can explore, learn and register for exciting events and activities.
-
-**Tech:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+🌐 **[Live Demo →](https://kidrove-workshop-e0r03tn24-lucky20.vercel.app/)**
 
 🔗 **[Repository →](https://github.com/luckypathak78/kidrove-workshop)**
 
-🌐 **[Live Demo →](https://kidrove-workshop-e0r03tn24-lucky20.vercel.app/)**
+</td>
+</tr>
+</table>
 
 ---
 
 # 🌱 Open Source
 
-🚀 Exploring open-source contributions
+<table>
+<tr>
+<td align="center" width="33%">
 
-💻 Building projects with real-world impact
+### 🌱 Open Source
 
-🤝 Open to collaboration and learning
+Exploring open-source projects and learning from the community.
 
-📚 Continuously improving my development skills
+</td>
 
-### ⭐ Code • Learn • Contribute • Repeat
+<td align="center" width="33%">
+
+### 💡 What I'm Building
+
+Real-world web applications, AI-powered tools and meaningful projects.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎯 My Goal
+
+Become a developer who builds products that genuinely solve problems.
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🧠 Currently Learning
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge"/>
 
@@ -144,7 +227,7 @@ A workshop platform where kids can explore, learn and register for exciting even
 
 <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
 
-</p>
+</div>
 
 ---
 
@@ -152,35 +235,35 @@ A workshop platform where kids can explore, learn and register for exciting even
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luckypathak78&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luckypathak78&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=luckypathak78&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=luckypathak78&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckypathak78&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckypathak78&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luckypathak78&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luckypathak78&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-# 🟩 GitHub Contributions
+# 🟩 Contributions
 
 <div align="center">
 
 ### 🚀 Building consistently. Learning continuously.
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/8A2BE2/luckypathak78)
+<img src="https://ghchart.rshah.org/8A2BE2/luckypathak78" alt="GitHub Contribution Calendar"/>
 
 </div>
 
@@ -191,11 +274,11 @@ A workshop platform where kids can explore, learn and register for exciting even
 <div align="center">
 
 <a href="https://github.com/luckypathak78">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -208,8 +291,6 @@ A workshop platform where kids can explore, learn and register for exciting even
 
 **Let's build something amazing together. 🚀**
 
-<br>
-
-`BUILD` • `LEARN` • `CREATE` • `REPEAT`
+⭐ If you like my work, consider starring my repositories!
 
 </div>
