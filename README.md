@@ -116,21 +116,6 @@ Build Again 🚀
 <tr>
 <td width="50%">
 
-## 🧠 AI Memory Preservation Platform
-
-An AI-powered platform designed to preserve communication styles and personalities based on real conversations.
-
-**Tech**
-
-`React` `Node.js` `MongoDB`
-`Gemini AI` `Tailwind CSS`
-
-🔗 **[Repository →](https://github.com/luckypathak78)**
-
-</td>
-
-<td width="50%">
-
 ## 🏥 Doctor Appointment System
 
 A full-stack application for booking doctor appointments, managing slots and handling bookings.
