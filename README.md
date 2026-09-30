@@ -39,7 +39,7 @@
 
 🧠 Learning **DSA with C / C++**
 
-🌱 Exploring **Open Source**
+🌱 **Open Source Contributor**
 
 💡 Love turning ideas into real-world projects
 
@@ -172,13 +172,36 @@ A workshop platform where kids can explore, learn and register for events and ac
 <tr>
 <td align="center" width="33%">
 
-### 🌱 Open Source
+### # 🌱 Open Source
 
-Exploring open-source projects and learning from the community.
+<table>
+<tr>
+<td width="50%">
+
+### 🏯 KanaDojo
+
+**Contributor**
+
+Added the **Umbrella Rain** community theme to KanaDojo.
+
+* 🎯 Issue: [#31323](https://github.com/lingdojo/kana-dojo/issues/31323)
+* 🔀 PR: [#31333](https://github.com/lingdojo/kana-dojo/pull/31333)
+* ✅ Status: **Merged**
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%">
+
+### 🚀 Open Source Journey
+
+I'm actively exploring open-source projects, learning how real-world repositories work, and contributing through issues, pull requests and collaborative development.
+
+**First merged contribution → September 2026 🎉**
+
+</td>
+</tr>
+</table>
+
 
 ### 💡 What I'm Building
 
