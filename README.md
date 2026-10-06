@@ -111,12 +111,9 @@ Build Again 🚀
 ---
 
 # 🚀 Featured Projects
+<table> <tr> <td width="50%">
 
-<table>
-<tr>
-<td width="50%">
-
-🧠 AI Memory Preservation Platform
+## 🧠 AI Memory Preservation Platform
 
 An AI-powered platform that analyzes historical conversations to preserve communication patterns and generate natural, context-aware responses inspired by those conversations.
 
@@ -125,13 +122,12 @@ Tech
 React Node.js Express.js
 MongoDB Groq LLMs
 
-🌐 Live Demo →
-
-🔗 View Repository →
+ 🔗 **[View Repository →](https://github.com/luckypathak78/AI-Memory-Preservation-Platform)**
 
 </td>
 
 <td width="50%">
+
 
 ## 🏥 Doctor Appointment System
 
@@ -172,8 +168,6 @@ A workshop platform where kids can explore, learn and register for events and ac
 
 `React` `Node.js` `Express.js`
 `MongoDB` `Tailwind CSS`
-
-🌐 **[Live Demo →](https://kidrove-workshop-e0r03tn24-lucky20.vercel.app/)**
 
 🔗 **[Repository →](https://github.com/luckypathak78/kidrove-workshop)**
 
