@@ -116,6 +116,23 @@ Build Again 🚀
 <tr>
 <td width="50%">
 
+🧠 AI Memory Preservation Platform
+
+An AI-powered platform that analyzes historical conversations to preserve communication patterns and generate natural, context-aware responses inspired by those conversations.
+
+Tech
+
+React Node.js Express.js
+MongoDB Groq LLMs
+
+🌐 Live Demo →
+
+🔗 View Repository →
+
+</td>
+
+<td width="50%">
+
 ## 🏥 Doctor Appointment System
 
 A full-stack application for booking doctor appointments, managing slots and handling bookings.
